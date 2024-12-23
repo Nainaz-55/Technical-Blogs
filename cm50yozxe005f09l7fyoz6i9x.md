@@ -5,6 +5,7 @@ seoDescription: "Security Policy - Basic Authentication"
 datePublished: Mon Dec 23 2024 11:36:35 GMT+0000 (Coordinated Universal Time)
 cuid: cm50yozxe005f09l7fyoz6i9x
 slug: security-policy-basic-authentication
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734953852410/e915770b-6e72-4078-adb8-40e2ef77879a.png
 tags: apis, apigee, security-policy, security-policy-basic-authentication
 
 ---

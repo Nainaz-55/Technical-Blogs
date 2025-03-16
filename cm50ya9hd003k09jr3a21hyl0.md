@@ -1,10 +1,10 @@
 ---
-title: "Apigee Assignment - Based on the Service Callout policy and JSON protection."
-seoTitle: "Apigee Assignment"
-seoDescription: "Apigee Assignment - Based on the Service Callout policy and JSON threat protection."
+title: "PROJECT - Based on the Service Callout policy and JSON protection."
+seoTitle: "PROJECT"
+seoDescription: "PROJECT - Based on the Service Callout policy and JSON threat protection."
 datePublished: Mon Dec 23 2024 11:25:07 GMT+0000 (Coordinated Universal Time)
 cuid: cm50ya9hd003k09jr3a21hyl0
-slug: apigee-assignment-based-on-the-service-callout-policy-and-json-protection
+slug: project-based-on-the-service-callout-policy-and-json-protection
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734952968473/227710eb-150c-4504-8b68-759f946759d0.png
 tags: apigee, service-callout-policy, json-threat-protection-policy
 

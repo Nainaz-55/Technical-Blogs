@@ -1,10 +1,10 @@
 ---
-title: "Apigee Assignment - Based on Basic authentication, Verify API key, and Javascript policy"
-seoTitle: "Apigee Assignment - Based on Basic authentication, Verify API key, and"
+title: "PROJECT - Based on Basic authentication, Verify API key, and Javascript policy"
+seoTitle: "PROJECT - Based on Basic authentication, Verify API key, and"
 seoDescription: "Apigee Assignment - Based on Basic authentication, Verify API key, and Javascript policy"
 datePublished: Wed Dec 25 2024 15:54:58 GMT+0000 (Coordinated Universal Time)
 cuid: cm542szgz000g09jwcwivewxe
-slug: apigee-assignment-based-on-basic-authentication-verify-api-key-and-javascript-policy
+slug: project-based-on-basic-authentication-verify-api-key-and-javascript-policy
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735141974251/9597db8e-db2e-4447-abd0-af74575920dd.png
 tags: google-cloud, apis, api-management, apigee-assignment, javascript-policy, verify-api-key, based-on-basic-authentication, apigee-assignment-based-on-basic-authentication-verify-api-key-and-javascript-policy
 

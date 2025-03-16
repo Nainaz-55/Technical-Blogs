@@ -1,7 +1,7 @@
 ---
 title: "PROJECT - Based on Basic authentication, Verify API key, and Javascript policy"
 seoTitle: "PROJECT - Based on Basic authentication, Verify API key, and"
-seoDescription: "Apigee Assignment - Based on Basic authentication, Verify API key, and Javascript policy"
+seoDescription: "PROJECT - Based on Basic authentication, Verify API key, and Javascript policy"
 datePublished: Wed Dec 25 2024 15:54:58 GMT+0000 (Coordinated Universal Time)
 cuid: cm542szgz000g09jwcwivewxe
 slug: project-based-on-basic-authentication-verify-api-key-and-javascript-policy

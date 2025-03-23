@@ -1,10 +1,10 @@
 ---
-title: "Enterprise API Gateway Architecture & Management using Apigee"
+title: "Blog Series: Enterprise API Gateway Implementation using Apigee X"
 seoTitle: "Enterprise API Gateway Architecture & Management using Apigee"
 seoDescription: "Enterprise API Gateway Architecture & Management using Apigee"
 datePublished: Sun Mar 23 2025 14:17:45 GMT+0000 (Coordinated Universal Time)
 cuid: cm8lq2xmc000909l85lz7gqz7
-slug: enterprise-api-gateway-architecture-and-management-using-apigee
+slug: blog-series-enterprise-api-gateway-implementation-using-apigee-x
 tags: apigee, apigee-projects, enterprise-api-gateway
 
 ---

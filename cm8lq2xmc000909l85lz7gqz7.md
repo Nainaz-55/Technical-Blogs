@@ -12,7 +12,7 @@ tags: apigee, apigee-projects, enterprise-api-gateway
 
 #### **Project Overview**
 
-Clients are seeking an experienced Apigee developer to design, implement, and manage an enterprise-grade **API Gateway** using **Apigee Edge, Apigee Hybrid, or Apigee X**. there company provides a **multi-cloud SaaS solution** for financial services, requiring a **secure, scalable, and high-performance** API management platform.
+We design, implement, and manage an enterprise-grade **API Gateway** using **Apigee Edge, Apigee Hybrid, or Apigee X**. there company provides a **multi-cloud SaaS solution** for financial services, requiring a **secure, scalable, and high-performance** API management platform.
 
 The project will involve:
 

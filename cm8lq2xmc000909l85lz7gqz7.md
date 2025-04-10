@@ -212,6 +212,8 @@ curl -X POST "https://[APIGEE_HOST]/oauth/token" -d "grant_type=client_credentia
     
 6. Save and deploy the product
     
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1744287550723/a9370281-ba77-46e5-b7f3-6c025bafb24e.png align="center")
+    
 
 ### **2.2 Create a Developer & App**
 
@@ -220,6 +222,8 @@ curl -X POST "https://[APIGEE_HOST]/oauth/token" -d "grant_type=client_credentia
 2. Create an app under **Publish &gt; Apps**, and associate it with `TestProduct`
     
 3. Copy the generated **API Key**
+    
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1744287648444/d32f0ac1-acd6-47f5-a51b-91e9b20186a3.png align="center")
     
 
 ### **2.3 Apply API Key Verification Policy**

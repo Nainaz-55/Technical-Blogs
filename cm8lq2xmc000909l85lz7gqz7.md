@@ -1,12 +1,12 @@
 ---
-title: "Blog Series: Enterprise API Gateway Implementation using Apigee X"
+title: "Apigee Project : Enterprise API Gateway Implementation using Apigee X"
 seoTitle: "Enterprise API Gateway Architecture & Management using Apigee"
 seoDescription: "Enterprise API Gateway Architecture & Management using Apigee"
 datePublished: Sun Mar 23 2025 14:17:45 GMT+0000 (Coordinated Universal Time)
 cuid: cm8lq2xmc000909l85lz7gqz7
 slug: blog-series-enterprise-api-gateway-implementation-using-apigee-x
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1744218970379/ea1d25e3-2c5d-4c6f-b2ed-8bc4f4b71232.jpeg
-tags: apigee, apigee-projects, enterprise-api-gateway
+tags: jwt, apigee, json-web-token-jwt-policy, apigee-assignment, apigee-projects, enterprise-api-gateway, apigee-x
 
 ---
 

@@ -12,7 +12,7 @@ tags: jwt, apigee, json-web-token-jwt-policy, apigee-assignment, apigee-projects
 
 #### **Project Overview**
 
-We design, implement, and manage an enterprise-grade **API Gateway** using **Apigee Edge, Apigee Hybrid, or Apigee X**. there company provides a **multi-cloud SaaS solution** for financial services, requiring a **secure, scalable, and high-performance** API management platform.
+We will design, implement, and manage an enterprise-grade **API Gateway** using **Apigee X**. Provides a **multi-cloud SaaS solution** for financial services, requiring a **secure, scalable, and high-performance** API management platform.
 
 The project will involve:
 
@@ -21,8 +21,6 @@ The project will involve:
 2. **Security enforcement** through OAuth 2.0, JWT validation, and API keys.
     
 3. **Performance optimization** using caching, rate limiting, and load balancing.
-    
-4. **Automation and DevOps** integration via CI/CD pipelines, Infrastructure as Code (IaC), and monitoring.
     
 
 ---

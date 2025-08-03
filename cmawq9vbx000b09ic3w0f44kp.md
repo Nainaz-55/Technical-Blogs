@@ -9,7 +9,7 @@ tags: end-to-end-api-integration-using-apigee-edge-in-a-global-banking-environme
 
 ---
 
-As an Apigee Developer, I worked on a critical initiative that transformed how we connect Citi’s internal investment platforms with iCapital — a leading alternative asset management SaaS platform.
+As an Apigee Developer, I worked on a critical initiative that transformed how we connect internal investment platforms with external providers— a leading alternative asset management SaaS platform.
 
 This blog walks you through what the project was about, the architecture, the challenges, and the solutions we built using Apigee Edge.
 
@@ -53,7 +53,7 @@ Apigee edge acted as the secure mediator between two isolated worlds.
 
 ## 🔧 My Role as an Apigee Developer
 
-I was responsible for building the full API integration layer using Apigee edge. My responsibilities included:
+I was responsible for building the full API integration layer using Apigee Edge. My responsibilities included:
 
 ✅ Designing and deploying Apigee API proxies to handle:
 

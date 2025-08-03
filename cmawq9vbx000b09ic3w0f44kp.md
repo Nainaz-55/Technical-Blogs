@@ -9,7 +9,7 @@ tags: end-to-end-api-integration-using-apigee-edge-in-a-global-banking-environme
 
 ---
 
-As an Apigee Developer, I worked on a critical initiative that transformed how we connect internal investment platforms with external providers— a leading alternative asset management SaaS platform.
+As an Apigee Developer, I worked on a critical initiative that transformed how we connect internal investment with external providers— a leading alternative asset management SaaS platform.
 
 This blog walks you through what the project was about, the architecture, the challenges, and the solutions we built using Apigee Edge.
 
